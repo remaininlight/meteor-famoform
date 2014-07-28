@@ -1,6 +1,6 @@
 Package.describe({
-  name: "autoform",
-  summary: "Provides UI components that allow you to easily create forms with automatic insert and update events, and automatic reactive validation."
+  name: "famoform",
+  summary: "Provides UI components that allow you to easily create forms with automatic insert and update events, and automatic reactive validation - using famo.us"
 });
 
 Package.on_use(function(api) {
